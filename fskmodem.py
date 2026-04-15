@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 ╔══════════════════════════════════════════════════════════════╗
-║   FSK AUDIO MODEM  v3.0  –  SV / FT-817 Edition             ║
+║   FSK AUDIO MODEM  v3.1  –  SV / FT-817 Edition             ║
 ║   1200 · 2400 · 9600 Baud AFSK  ·  CAT PTT  ·  Loopback    ║
 ║   Live dB Spectrum + Waterfall  ·  Always-on Monitor         ║
 ╚══════════════════════════════════════════════════════════════╝
