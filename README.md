@@ -1,4 +1,4 @@
-# FSK Audio Modem  —  v3.0
+# FSK Audio Modem  —  v3.1
 **AFSK · 1200 / 2400 / 9600 Baud · FT-817 CAT PTT · Loopback · Live Spectrum + Waterfall**
 
 ---
